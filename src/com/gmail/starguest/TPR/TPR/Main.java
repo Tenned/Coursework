@@ -4,9 +4,6 @@ import com.gmail.starguest.TPR.method.InOut;
 
 import java.util.ArrayList;
 
-/**
- * Created by isv on 03.12.16.
- */
 public class Main {
 
     private final static String BR1_PATH = "data/BO1.txt";
