@@ -7,9 +7,7 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by isv on 13.09.16.
- */
+
 public class InOut {
 
     public static ArrayList<ArrayList<Double>> ListInit(String path){
