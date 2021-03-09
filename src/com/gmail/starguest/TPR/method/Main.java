@@ -2,9 +2,7 @@ package com.gmail.starguest.TPR.method;
 
 import java.util.ArrayList;
 
-/**
- * Created by isv on 13.09.16.
- */
+
 public class Main {
 
     public final static double C = 0.54;
