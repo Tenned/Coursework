@@ -2,9 +2,6 @@ package com.gmail.starguest.TPR.method;
 
 import java.util.ArrayList;
 
-/**
- * Created by isv on 14.09.16.
- */
 public class BayesLaplas {
 
     public static void Calculate(ArrayList<ArrayList<Double>> mat, ArrayList<Double> props){
