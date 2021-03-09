@@ -2,9 +2,6 @@ package com.gmail.starguest.TPR.TPR;
 
 import java.util.ArrayList;
 
-/**
- * calculates non zero cols of binary relation
- */
 public class BlockingMethod {
 
     private static ArrayList<Integer> zeroCols = new ArrayList<Integer>();
