@@ -1,8 +1,6 @@
 package com.gmail.starguest.TPR.method;
 
-/**
- * Created by isv on 13.09.16.
- */
+
 public class ValueAndIndex {
     private double value = 0;
     private int rowPosition;
