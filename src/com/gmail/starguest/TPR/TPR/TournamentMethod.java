@@ -3,7 +3,6 @@ package com.gmail.starguest.TPR.TPR;
 import java.util.ArrayList;
 
 /**
- * Created by isv on 03.12.16.
  * calculates weight vector using tournament method
  */
 public class TournamentMethod {
