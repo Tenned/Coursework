@@ -2,10 +2,6 @@ package com.gmail.starguest.TPR.TPR;
 
 import java.util.ArrayList;
 
-/**
- * Created by isv on 04.12.16.
- * calculates k-max vector for BR
- */
 public class KMaxMethod {
 
     //weight vector to return
